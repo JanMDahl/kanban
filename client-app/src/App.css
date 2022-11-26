@@ -1,0 +1,66 @@
+h4 {
+  background-color: #353535;
+  height: 8vh;
+  line-height: 8vh;
+  width: 21vh;
+  text-align: center;
+  font-size: 2vh;
+  margin-left: 0;
+  margin-right: 0;
+  align-items: center;
+  font-weight: 300;
+}
+
+.App {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.ticket {
+  height: 18vh;
+  width: 18vh;
+  line-height: 1.5vh;
+  padding: 1vh;
+  background-color: #202020;
+  border-radius: 1vh;
+  margin-bottom: 0.3vh;
+  margin-top: 0.3vh;
+  font-size: 1.5vh;
+}
+
+.ghost {
+  box-shadow: 2px 0px 53px -19px rgba(0,0,0,0.75);
+}
+
+.columncontainer {
+  top: 0;
+  display: flex;
+  position: absolute;
+  flex-direction: row;
+  height: fit-content;
+  user-select: none;
+}
+
+.column {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 21vh;
+  margin: 0.5vh;
+  min-height: 5vh;
+}
+
+.columncontent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 21vh;
+  height: fit-content;
+  min-height: 50vh;
+  background-color: #353535;
+  height: 100%;
+}

@@ -1143,11 +1143,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\kode\\KanbanAPI\\KanbanAPI.csproj",
+      "projectUniqueName": "D:\\kode\\kanban\\KanbanAPI.csproj",
       "projectName": "KanbanAPI",
-      "projectPath": "D:\\kode\\KanbanAPI\\KanbanAPI.csproj",
+      "projectPath": "D:\\kode\\kanban\\KanbanAPI.csproj",
       "packagesPath": "C:\\Users\\Jan\\.nuget\\packages\\",
-      "outputPath": "D:\\kode\\KanbanAPI\\obj\\",
+      "outputPath": "D:\\kode\\kanban\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Jan\\AppData\\Roaming\\NuGet\\NuGet.Config",

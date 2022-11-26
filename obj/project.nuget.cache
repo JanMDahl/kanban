@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xXZXZ/f3JX7aJAj852Je5lDq71uBqX5o0/gJDZOEZqt6Uy1zDFxKhKlObLAALfIP915CqfcPv4pmSm2Qk2vYuQ==",
+  "dgSpecHash": "uRPK+oX+x90ef2Yzg9hu9MnREiXBWxyVhKTq6ev5dAYuB5JAFflKOJuFApbdcAphuWa4d39x3AsbfnZyO81kCw==",
   "success": true,
-  "projectFilePath": "D:\\kode\\KanbanAPI\\KanbanAPI.csproj",
+  "projectFilePath": "D:\\kode\\kanban\\KanbanAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jan\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\Jan\\.nuget\\packages\\google.protobuf\\3.19.4\\google.protobuf.3.19.4.nupkg.sha512",

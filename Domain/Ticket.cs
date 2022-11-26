@@ -72,6 +72,8 @@ namespace KanbanAPI.Domain
     {
         Open,       // 0
         InProgress, // 1
-        Closed      // 2  
+        Waiting,    // 2
+        Testing,    // 3
+        Closed      // 4  
     }
 }
